@@ -7,4 +7,4 @@ Description:
 Doppler radar was used to collect data on seven types of human daily activities: running, walking, walking while holding a stick, crawling, boxing while moving forward, boxing while standing in place, and sitting still.  
 The data set was collected on seven people: hq, gj, xl, zy, dh, jp, hx.  
 Each data is named as: a*, b*, c*....The 'a' indicates that the data was collected for the first time, 'b' is the second time, and so on.  There is a detailed description of the data set in [1].  
-[1]
+[1] Haiquan Chen, Wenbin Ye. Classification of Human Activity Based on Radar Signal Using 1-D Convolutional Neural Network. IEEE Geoscience and Remote Sensing Letters. 2019.
