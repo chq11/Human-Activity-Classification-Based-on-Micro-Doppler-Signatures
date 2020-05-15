@@ -13,7 +13,7 @@ Google Drive link：https://drive.google.com/open?id=1mhVqXCZsStH0u8LkaAxh8m4ITo
 ## Description:  
 Doppler radar was used to collect data on seven types of human daily activities: running, walking, walking while holding a stick, crawling, boxing while moving forward, boxing while standing in place, and sitting still.  
   
-Action type  | description
+Action type  | Description
 ---- | -----  
 Running  |  The act of quickly advancing by swinging arms and legs.
 Walking  |  The act of walking forward at a moderate speed while moving arms and legs.
@@ -27,7 +27,6 @@ Data1 was collected on seven people: hq, gj, xl, zy, dh, jp, hx. Data2 was colle
 Each data is named as: a*, b*, c*....The 'a' indicates that the data was collected for the first time, 'b' is the second time, and so on.  
 The collection details of Data1 and Data2 are explained in [1] and [2], respectively. Data1 was used for experiments by [1,3]. And Data2 was used for experiments by [2,4].  
 
-# 
 ## Cited
 [1] Haiquan Chen, Wenbin Ye. Classification of Human Activity Based on Radar Signal Using 1-D Convolutional Neural Network. IEEE Geoscience and Remote Sensing Letters. 2019.  
 [2] Wenbin Ye, Haiquan Chen, Bing Li. Using an End-to-End Convolutional Network on Radar Signal for Human Activity Classification. IEEE Sensors Journal. 2019, 19 (24), 12244-12252.  
