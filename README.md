@@ -1,6 +1,7 @@
 # Human Activity Classification Based on Micro Doppler Signatures
 
-Two human activity data sets based on Micro-Doppler Doppler radar are published (name as Data1 and Data2, respectively). Data1 contains I / Q channels and Data2 contains only I channels. Data1 can be downloaded as follows:  
+Two human activity data sets based on Micro-Doppler Doppler radar are published (name as Data1 and Data2, respectively). Data1 contains I / Q channels and Data2 contains only I channels.  
+Data1 can be downloaded as follows:  
 Baidu Netdisk link：https://pan.baidu.com/s/1cK7Blfk_Opu0V3sZqXrDLg Extraction code：otvg  
 Baidu Netdisk link(.zip)：https://pan.baidu.com/s/1WYmNm8u1ERQZeZcS1SzFfA Extraction code：aj73  
 Google Drive link：https://drive.google.com/open?id=1iCApFjSvjK1u_Zoy5Gc1VSve-4tPspve  
