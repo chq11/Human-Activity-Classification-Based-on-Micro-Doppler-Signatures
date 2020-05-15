@@ -22,13 +22,11 @@ Sitting still  | Sitting in a chair, there are slight restless movements, such a
 
 Data1 was collected on seven people: hq, gj, xl, zy, dh, jp, hx. Data2 was collected on four people: hq, gj, xl, dh.  
 Each data is named as: a*, b*, c*....The 'a' indicates that the data was collected for the first time, 'b' is the second time, and so on.  
-There is a detailed description of the Data1 in [1]. Data1 was used for experiments by [1,2].  
-The detail of the Data2 is described in [3]. And Data2 was used for experiments by [3,4].  
-
+The collection details of Data1 and Data2 are explained in [1] and [2], respectively. Data1 was used for experiments by [1,3]. And Data2 was used for experiments by [2,4].  
 
 # 
 # Cited
 [1] Haiquan Chen, Wenbin Ye. Classification of Human Activity Based on Radar Signal Using 1-D Convolutional Neural Network. IEEE Geoscience and Remote Sensing Letters. 2019.  
-[2] Jianping Zhu, Haiquan Chen and Wenbin Ye, "A Hybrid CNN–LSTM Network for the Classification of Human Activities Based on Micro-Doppler Radar," in IEEE Access, vol. 8, pp. 24713-24720, 2020.  
-[3] Wenbin Ye, Haiquan Chen, Bing Li. Using an End-to-End Convolutional Network on Radar Signal for Human Activity Classification. IEEE Sensors Journal. 2019, 19 (24), 12244-12252.  
+[2] Wenbin Ye, Haiquan Chen, Bing Li. Using an End-to-End Convolutional Network on Radar Signal for Human Activity Classification. IEEE Sensors Journal. 2019, 19 (24), 12244-12252.  
+[3] Jianping Zhu, Haiquan Chen and Wenbin Ye, "A Hybrid CNN–LSTM Network for the Classification of Human Activities Based on Micro-Doppler Radar," in IEEE Access, vol. 8, pp. 24713-24720, 2020.  
 [4] Wenbin Ye, Haiquan Chen. Human Activity Classification Based on Micro-Doppler Signatures by Multi-scale and Multi-task Fourier Convolutional Neural Network.IEEE Sensors Journal. 2020. 
