@@ -18,7 +18,8 @@ Walking while holding a stick  | The act of holding the stick in a horizontal po
 Crawling  | The act of crawling forward on the ground with both hands and knees.
 Boxing while moving forward  | The act of punching with two hands while walking.
 Boxing while standing in place  | Stand still and engage in punching.
-Sitting still  | Sitting in a chair, there are slight restless movements, such as shaking his legs, touching his hair, and crossing his hands. 
+Sitting still  | Sitting in a chair, there are slight restless movements, such as shaking his legs, touching his hair, and crossing his hands.  
+
 Data1 was collected on seven people: hq, gj, xl, zy, dh, jp, hx. Data2 was collected on four people: hq, gj, xl, dh.  
 Each data is named as: a*, b*, c*....The 'a' indicates that the data was collected for the first time, 'b' is the second time, and so on.  
 There is a detailed description of the Data1 in [1]. Data1 was used for experiments by [1,2].  
