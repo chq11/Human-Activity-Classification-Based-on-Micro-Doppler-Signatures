@@ -28,7 +28,7 @@ Each data is named as: a*, b*, c*....The 'a' indicates that the data was collect
 The collection details of Data1 and Data2 are explained in [1] and [2], respectively. Data1 was used for experiments by [1,3]. And Data2 was used for experiments by [2,4].  
 
 ## Citation
-[1] Haiquan Chen, Wenbin Ye. Classification of Human Activity Based on Radar Signal Using 1-D Convolutional Neural Network. IEEE Geoscience and Remote Sensing Letters. 2019. DOI：https://doi.org/10.1109/LGRS.2019.2942097  
-[2] Wenbin Ye, Haiquan Chen, Bing Li. Using an End-to-End Convolutional Network on Radar Signal for Human Activity Classification. IEEE Sensors Journal. 2019, 19 (24), 12244-12252. DOI：https://doi.org/10.1109/JSEN.2019.2938997  
+[1] Haiquan Chen, Wenbin Ye. Classification of Human Activity Based on Radar Signal Using 1-D Convolutional Neural Network. IEEE Geoscience and Remote Sensing Letters. 2019. DOI: https://doi.org/10.1109/LGRS.2019.2942097  
+[2] Wenbin Ye, Haiquan Chen, Bing Li. Using an End-to-End Convolutional Network on Radar Signal for Human Activity Classification. IEEE Sensors Journal. 2019, 19 (24), 12244-12252. DOI: https://doi.org/10.1109/JSEN.2019.2938997  
 [3] Jianping Zhu, Haiquan Chen and Wenbin Ye. A Hybrid CNN–LSTM Network for the Classification of Human Activities Based on Micro-Doppler Radar. IEEE Access, vol. 8, pp. 24713-24720, 2020. DOI: https://doi.org/10.1109/ACCESS.2020.2971064  
-[4] Wenbin Ye, Haiquan Chen. Human Activity Classification Based on Micro-Doppler Signatures by Multi-scale and Multi-task Fourier Convolutional Neural Network.IEEE Sensors Journal. 2020. DOI:https://doi.org/10.1109/JSEN.2020.2971626   
+[4] Wenbin Ye, Haiquan Chen. Human Activity Classification Based on Micro-Doppler Signatures by Multi-scale and Multi-task Fourier Convolutional Neural Network.IEEE Sensors Journal. 2020. DOI: https://doi.org/10.1109/JSEN.2020.2971626   
